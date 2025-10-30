@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Zizhi Xia"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/ZizhiXia
+      - icon: envelope
+        href: mailto:zx2528@columbia.edu
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/zizhi-xia-172575326/
+format:
+  html:
+    theme: cosmo

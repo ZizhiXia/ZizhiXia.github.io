@@ -1,0 +1,17 @@
+---
+title: "Hi :)"
+author: "Zizhi"
+format: html
+editor: visual
+---
+
+---
+title: "Hello!"
+---
+
+# Hi, I'm Zizhi! 👋
+
+MS in Epidemiology \@ Columbia (CUIMC).🧏🏻‍♀️\
+Interests: spatial epidemiology, data science, mental health.
+
+[GitHub](https://github.com/ZizhiXia) · [Email](mailto:zx2528@cumc.columbia.edu)

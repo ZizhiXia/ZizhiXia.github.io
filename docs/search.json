@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Hi, I’m Zizhi! 👋\nMS in Epidemiology @ Columbia (CUIMC).🧏🏻‍♀️\nInterests: spatial epidemiology, data science, mental health.\nGitHub · Email"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "MS in Epidemiology @ Columbia University (CUIMC)\nNew York, NY · zx2528@cumc.columbia.edu · (+1) 646-309-4668\n\n\n\nColumbia University · Master of Science in Epidemiology (in progress)\nNew York, NY · Aug 2024 – expected May 2026\n\n\nCore: Principles of Epidemiology, Intro to Biostatistical Methods, Data Science, Graphical Models for Complex Health Data, Spatial Epidemiology, Emerging Infectious Epidemiology\n\nMuskingum University · B.A. in Public Health\nNew Concord, OH · Aug 2020 – May 2024\n\n\nDean’s List (2023–2024).\nCore: Biomedical Ethics, Health Policy, Nutrition Across the Lifespan, Epidemiology, Social Gerontology, Health Disparities, Global Health\n\n\n\n\n\nHuaibei Occupational Disease Prevention Hospital — Data Analyst & Audiometry Technician\nHuaibei, China · Jun 2023 – Aug 2023\n- Processed and analyzed occupational health exam data for miners; identified key factors associated with pneumoconiosis.\n- Performed audiometric testing for miners and Intco Medical employees; analyzed noise-induced hearing loss patterns, highlighting roles of job type, exposure duration, age, and high-frequency thresholds.\nHuaibei Adverse Drug Reaction Monitoring Center — Data Analyst Intern\nHuaibei, China · Dec 2022 – Mar 2023\n- Categorized ADR reports, queried historical cases, and produced analysis to support data-driven decision making.\n- Led data entry/analysis for ADR cases and delivered public education on drug safety.\n\n\n\n\nBrain Network Analysis of Autism Spectrum Disorder using Structure Learning Methods\nColumbia University · Dec 2024\n- Applied PC and GES algorithms to fMRI data (27 subjects) to compare ASD vs. neurotypical connectivity.\n- Summarized networks via edge counts, path lengths, clustering coefficients; differences were consistently non-significant across α-levels.\n- Discussed PC’s stability and GES limitations in high-dimensional settings; emphasized sample size needs.\nSocioeconomic Factors & COVID-19 Vaccination Effectiveness in China\nMuskingum University · May 2024\n- Analyzed provincial vaccination patterns; highlighted rural–urban disparities (e.g., access gaps, travel distance, infrastructure).\n- Found higher education linked with greater hesitancy; offered evidence-based recommendations for targeted promotion strategies.\n\n\n\n\nCoursera (selected):\n- Programming for Everybody (Python); Capstone: Retrieving, Processing & Visualizing Data with Python\n- Mathematics for Machine Learning: Linear Algebra, Multivariate Calculus\n\n\n\n\nCOVID-19 Pandemic Prevention & Control — Huaibei, China\nJul–Aug 2022; Nov–Dec 2022\n- Supported nucleic-acid testing, mask checks, and travel-code verification.\n- Assisted clinical staff with sample collection and accurate data logging.\n\n\n\n\n\nEmail: zx2528@cumc.columbia.edu\n\nGitHub: github.com/ZizhiXia\n\nLocation: New York, NY"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "Columbia University · Master of Science in Epidemiology (in progress)\nNew York, NY · Aug 2024 – expected May 2026\n\n\nCore: Principles of Epidemiology, Intro to Biostatistical Methods, Data Science, Graphical Models for Complex Health Data, Spatial Epidemiology, Emerging Infectious Epidemiology\n\nMuskingum University · B.A. in Public Health\nNew Concord, OH · Aug 2020 – May 2024\n\n\nDean’s List (2023–2024).\nCore: Biomedical Ethics, Health Policy, Nutrition Across the Lifespan, Epidemiology, Social Gerontology, Health Disparities, Global Health"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Huaibei Occupational Disease Prevention Hospital — Data Analyst & Audiometry Technician\nHuaibei, China · Jun 2023 – Aug 2023\n- Processed and analyzed occupational health exam data for miners; identified key factors associated with pneumoconiosis.\n- Performed audiometric testing for miners and Intco Medical employees; analyzed noise-induced hearing loss patterns, highlighting roles of job type, exposure duration, age, and high-frequency thresholds.\nHuaibei Adverse Drug Reaction Monitoring Center — Data Analyst Intern\nHuaibei, China · Dec 2022 – Mar 2023\n- Categorized ADR reports, queried historical cases, and produced analysis to support data-driven decision making.\n- Led data entry/analysis for ADR cases and delivered public education on drug safety."
+  },
+  {
+    "objectID": "resume.html#selected-projects",
+    "href": "resume.html#selected-projects",
+    "title": "Resume",
+    "section": "",
+    "text": "Brain Network Analysis of Autism Spectrum Disorder using Structure Learning Methods\nColumbia University · Dec 2024\n- Applied PC and GES algorithms to fMRI data (27 subjects) to compare ASD vs. neurotypical connectivity.\n- Summarized networks via edge counts, path lengths, clustering coefficients; differences were consistently non-significant across α-levels.\n- Discussed PC’s stability and GES limitations in high-dimensional settings; emphasized sample size needs.\nSocioeconomic Factors & COVID-19 Vaccination Effectiveness in China\nMuskingum University · May 2024\n- Analyzed provincial vaccination patterns; highlighted rural–urban disparities (e.g., access gaps, travel distance, infrastructure).\n- Found higher education linked with greater hesitancy; offered evidence-based recommendations for targeted promotion strategies."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Coursera (selected):\n- Programming for Everybody (Python); Capstone: Retrieving, Processing & Visualizing Data with Python\n- Mathematics for Machine Learning: Linear Algebra, Multivariate Calculus"
+  },
+  {
+    "objectID": "resume.html#volunteering",
+    "href": "resume.html#volunteering",
+    "title": "Resume",
+    "section": "",
+    "text": "COVID-19 Pandemic Prevention & Control — Huaibei, China\nJul–Aug 2022; Nov–Dec 2022\n- Supported nucleic-acid testing, mask checks, and travel-code verification.\n- Assisted clinical staff with sample collection and accurate data logging."
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Resume",
+    "section": "",
+    "text": "Email: zx2528@cumc.columbia.edu\n\nGitHub: github.com/ZizhiXia\n\nLocation: New York, NY"
+  }
+]
