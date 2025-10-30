@@ -9,9 +9,37 @@ editor: visual
 title: "Hello!"
 ---
 
-# Hi, I'm Zizhi! 👋
+# 
 
-MS in Epidemiology \@ Columbia (CUIMC).🧏🏻‍♀️\
-Interests: spatial epidemiology, data science, mental health.
+# 👋 Hi, I'm Zizhi
 
-[GitHub](https://github.com/ZizhiXia) · [Email](mailto:zx2528@cumc.columbia.edu)
+I’m an MS student in Epidemiology \@ Columbia University.🛸\
+Welcome to my personal website.🧏🏻‍♀️\
+Here you can view my academic background and explore my interactive data visualization project.
+
+------------------------------------------------------------------------
+
+## 🚀 Explore My Work
+
+::::: {.grid .grid-cols-2 .gap-4}
+<div>
+
+### 📄 [Resume](resume.qmd)
+
+A brief overview of my academic and professional experience.
+
+</div>
+
+<div>
+
+### 📊 [HW4 Dashboard](hw4_dashboard.qmd)
+
+An interactive weather data visualization created using the `ny_noaa` dataset.
+
+</div>
+:::::
+
+------------------------------------------------------------------------
+
+You can also connect with me on\
+[GitHub](https://github.com/ZizhiXia) · [LinkedIn](https://www.linkedin.com/in/zizhi-xia-172575326/) · [Email](mailto:zx2528@cumc.columbia.edu)
