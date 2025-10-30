@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
+    "objectID": "hw4_dashboard.html",
+    "href": "hw4_dashboard.html",
+    "title": "P8105 HW4 Weather Dashboard",
     "section": "",
-    "text": "Hi, I’m Zizhi! 👋\nMS in Epidemiology @ Columbia (CUIMC).🧏🏻‍♀️\nInterests: spatial epidemiology, data science, mental health.\nGitHub · Email"
+    "text": "This page contains interactive Plotly visualizations created for Problem 2 of P8105 Homework 4, using the ny_noaa dataset."
+  },
+  {
+    "objectID": "hw4_dashboard.html#ny-noaa-flexdashboard-visualizations",
+    "href": "hw4_dashboard.html#ny-noaa-flexdashboard-visualizations",
+    "title": "P8105 HW4 Weather Dashboard",
+    "section": "",
+    "text": "This page contains interactive Plotly visualizations created for Problem 2 of P8105 Homework 4, using the ny_noaa dataset."
   },
   {
     "objectID": "resume.html",
@@ -54,5 +61,12 @@
     "title": "Resume",
     "section": "",
     "text": "Email: zx2528@cumc.columbia.edu\n\nGitHub: github.com/ZizhiXia\n\nLocation: New York, NY"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Hi, I’m Zizhi! 👋\nMS in Epidemiology @ Columbia (CUIMC).🧏🏻‍♀️\nInterests: spatial epidemiology, data science, mental health.\nGitHub · Email"
   }
 ]

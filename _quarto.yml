@@ -9,6 +9,8 @@ website:
         href: index.qmd
       - text: Resume
         href: resume.qmd
+      - text: HW4 Dashboard     
+        href: hw4_dashboard.qmd   
     right:
       - icon: github
         href: https://github.com/ZizhiXia
