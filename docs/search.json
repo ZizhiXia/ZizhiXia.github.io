@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "hw4_dashboard.html",
-    "href": "hw4_dashboard.html",
-    "title": "P8105 HW4 Weather Dashboard",
+    "objectID": "hw4_problem2.html",
+    "href": "hw4_problem2.html",
+    "title": "P8105 HW4 Weather",
     "section": "",
-    "text": "This page contains interactive Plotly visualizations created for **Problem 2** of P8105 Homework 4, using the `ny_noaa` dataset.\n\n&lt;iframe src=“dashboard.html” width=“100%” height=“900px” frameborder=“0”&gt;&lt;/iframe&gt;"
+    "text": "This page embeds the interactive dashboard produced for Problem 2."
   },
   {
-    "objectID": "hw4_dashboard.html#ny-noaa-flexdashboard-visualizations",
-    "href": "hw4_dashboard.html#ny-noaa-flexdashboard-visualizations",
-    "title": "P8105 HW4 Weather Dashboard",
+    "objectID": "hw4_problem2.html#ny-noaa-flexdashboard-visualizations",
+    "href": "hw4_problem2.html#ny-noaa-flexdashboard-visualizations",
+    "title": "P8105 HW4 Weather",
     "section": "",
-    "text": "This page contains interactive Plotly visualizations created for **Problem 2** of P8105 Homework 4, using the `ny_noaa` dataset.\n\n&lt;iframe src=“dashboard.html” width=“100%” height=“900px” frameborder=“0”&gt;&lt;/iframe&gt;"
+    "text": "This page embeds the interactive dashboard produced for Problem 2."
   },
   {
     "objectID": "resume.html",
@@ -67,6 +67,6 @@
     "href": "index.html#explore-my-work",
     "title": "Hello!",
     "section": "🚀 Explore My Work",
-    "text": "🚀 Explore My Work\n\n\n📄 Resume\nA brief overview of my academic and professional experience.\n\n\n📊 HW4 Dashboard\nAn interactive weather data visualization created using the ny_noaa dataset.\n\n\n\nYou can also connect with me on\nGitHub · LinkedIn · Email"
+    "text": "🚀 Explore My Work\n\n\n📄 Resume\nA brief overview of my academic and professional experience.\n\n\n📊 HW4\nAn interactive weather data visualization created using the ny_noaa dataset.\n\n\n\nYou can also connect with me on\nGitHub · LinkedIn · Email"
   }
 ]

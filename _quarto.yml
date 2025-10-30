@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - dashboard.html
 website:
   title: "Zizhi Xia"
   navbar:
@@ -9,8 +11,8 @@ website:
         href: index.qmd
       - text: Resume
         href: resume.qmd
-      - text: HW4 Dashboard     
-        href: hw4_dashboard.qmd   
+      - text: HW4     
+        href: hw4_problem2.qmd   
     right:
       - icon: github
         href: https://github.com/ZizhiXia

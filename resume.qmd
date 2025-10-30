@@ -3,6 +3,7 @@ title: "Resume"
 page-layout: full
 ---
 
+```{=html}
 <style>
 section h2 { margin-top: 1.6rem; }
 .badge { display:inline-block; padding:.2rem .5rem; border-radius:.5rem; background:#f0f3f5; margin:.15rem .25rem 0 0; font-size:.9rem; }
@@ -10,79 +11,82 @@ ul.tight > li { margin: .25rem 0; }
 .small { color:#6c757d; font-size:.95rem; }
 hr { margin: 1.25rem 0; }
 </style>
+```
 
 # Zizhi Xia
 
-**MS in Epidemiology @ Columbia University (CUIMC)**  
-New York, NY · zx2528@cumc.columbia.edu · (+1) 646-309-4668
+**MS in Epidemiology \@ Columbia University (CUIMC)**\
+New York, NY · zx2528\@cumc.columbia.edu · (+1) 646-309-4668
 
----
+------------------------------------------------------------------------
 
 ## Education
 
-**Columbia University** · *Master of Science in Epidemiology (in progress)*  
-New York, NY · Aug 2024 – *expected* May 2026  
-<div class="small">
+**Columbia University** · *Master of Science in Epidemiology (in progress)*\
+New York, NY · Aug 2024 – *expected* May 2026\
+
+::: small
 Core: Principles of Epidemiology, Intro to Biostatistical Methods, Data Science, Graphical Models for Complex Health Data, Spatial Epidemiology, Emerging Infectious Epidemiology
-</div>
+:::
 
-**Muskingum University** · *B.A. in Public Health*  
-New Concord, OH · Aug 2020 – May 2024  
-<div class="small">
-Dean’s List (2023–2024).  
+**Muskingum University** · *B.A. in Public Health*\
+New Concord, OH · Aug 2020 – May 2024\
+
+::: small
+Dean’s List (2023–2024).\
 Core: Biomedical Ethics, Health Policy, Nutrition Across the Lifespan, Epidemiology, Social Gerontology, Health Disparities, Global Health
-</div>
+:::
 
----
+------------------------------------------------------------------------
 
 ## Professional Experience
 
-**Huaibei Occupational Disease Prevention Hospital** — *Data Analyst & Audiometry Technician*  
-Huaibei, China · Jun 2023 – Aug 2023  
-- Processed and analyzed occupational health exam data for miners; identified key factors associated with pneumoconiosis.  
+**Huaibei Occupational Disease Prevention Hospital** — *Data Analyst & Audiometry Technician*\
+Huaibei, China · Jun 2023 – Aug 2023\
+- Processed and analyzed occupational health exam data for miners; identified key factors associated with pneumoconiosis.\
 - Performed audiometric testing for miners and Intco Medical employees; analyzed noise-induced hearing loss patterns, highlighting roles of job type, exposure duration, age, and high-frequency thresholds.
 
-**Huaibei Adverse Drug Reaction Monitoring Center** — *Data Analyst Intern*  
-Huaibei, China · Dec 2022 – Mar 2023  
-- Categorized ADR reports, queried historical cases, and produced analysis to support data-driven decision making.  
+**Huaibei Adverse Drug Reaction Monitoring Center** — *Data Analyst Intern*\
+Huaibei, China · Dec 2022 – Mar 2023\
+- Categorized ADR reports, queried historical cases, and produced analysis to support data-driven decision making.\
 - Led data entry/analysis for ADR cases and delivered public education on drug safety.
 
----
+------------------------------------------------------------------------
 
 ## Selected Projects
 
-**Brain Network Analysis of Autism Spectrum Disorder using Structure Learning Methods**  
-Columbia University · Dec 2024  
-- Applied **PC** and **GES** algorithms to fMRI data (27 subjects) to compare ASD vs. neurotypical connectivity.  
-- Summarized networks via edge counts, path lengths, clustering coefficients; differences were consistently non-significant across α-levels.  
+**Brain Network Analysis of Autism Spectrum Disorder using Structure Learning Methods**\
+Columbia University · Dec 2024\
+- Applied **PC** and **GES** algorithms to fMRI data (27 subjects) to compare ASD vs. neurotypical connectivity.\
+- Summarized networks via edge counts, path lengths, clustering coefficients; differences were consistently non-significant across α-levels.\
 - Discussed PC’s stability and GES limitations in high-dimensional settings; emphasized sample size needs.
 
-**Socioeconomic Factors & COVID-19 Vaccination Effectiveness in China**  
-Muskingum University · May 2024  
-- Analyzed provincial vaccination patterns; highlighted rural–urban disparities (e.g., access gaps, travel distance, infrastructure).  
+**Socioeconomic Factors & COVID-19 Vaccination Effectiveness in China**\
+Muskingum University · May 2024\
+- Analyzed provincial vaccination patterns; highlighted rural–urban disparities (e.g., access gaps, travel distance, infrastructure).\
 - Found higher education linked with greater hesitancy; offered evidence-based recommendations for targeted promotion strategies.
 
----
+------------------------------------------------------------------------
 
 ## Certifications
 
-Coursera (selected):  
-- Programming for Everybody (Python); Capstone: Retrieving, Processing & Visualizing Data with Python  
+Coursera (selected):\
+- Programming for Everybody (Python); Capstone: Retrieving, Processing & Visualizing Data with Python\
 - Mathematics for Machine Learning: **Linear Algebra**, **Multivariate Calculus**
 
----
+------------------------------------------------------------------------
 
 ## Volunteering
 
-**COVID-19 Pandemic Prevention & Control** — Huaibei, China  
-Jul–Aug 2022; Nov–Dec 2022  
-- Supported nucleic-acid testing, mask checks, and travel-code verification.  
+**COVID-19 Pandemic Prevention & Control** — Huaibei, China\
+Jul–Aug 2022; Nov–Dec 2022\
+- Supported nucleic-acid testing, mask checks, and travel-code verification.\
 - Assisted clinical staff with sample collection and accurate data logging.
 
----
+------------------------------------------------------------------------
 
 ## Contact
 
-- Email: **zx2528@cumc.columbia.edu**  
-- GitHub: **github.com/ZizhiXia**  
-- Location: **New York, NY**
+-   Email: **zx2528\@cumc.columbia.edu**\
+-   GitHub: **github.com/ZizhiXia**\
+-   Location: **New York, NY**
